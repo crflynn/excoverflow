@@ -30,3 +30,7 @@ exception message; e.g.
 
     https://www.google.com/search?q=python+ZeroDivisionError+division+by+zero
     https://stackoverflow.com/search?q=%5Bpython%5D+%22ZeroDivisionError+division+by+zero%22
+
+
+Inspired by this reddit post
+https://www.reddit.com/r/ProgrammerHumor/comments/7z6x65/the_button_we_all_needed/
