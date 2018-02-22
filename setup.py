@@ -25,7 +25,7 @@ setup(
     zip_safe=False,
     classifiers=[
       'License :: OSI Approved :: MIT License',
-      'Intended Audience :: Developers'
+      'Intended Audience :: Developers',
       'Topic :: Software Development :: Libraries :: Python Modules',
       'Programming Language :: Python',
       'Programming Language :: Python :: 2',
