@@ -21,7 +21,7 @@ setup(
     author='Christopher Flynn',
     author_email='crf204@gmail.com',
     url='https://github.com/crflynn/excoverflow',
-    packages=['excoverflow'],
+    py_modules=['excoverflow'],
     zip_safe=False,
     classifiers=[
       'License :: OSI Approved :: MIT License',
