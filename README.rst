@@ -2,7 +2,7 @@ excoverflow
 ===========
 
 This package adds links to google and stackoverflow search results to the end
-of uncaught exceptions in Python.
+of uncaught exceptions in Python. It should work with either Python 2 or 3.
 
 To install:
 
